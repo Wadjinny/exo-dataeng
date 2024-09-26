@@ -13,5 +13,7 @@ L'idée est de créer un fichier csv qui viendrait merger ces deux données issu
 
 Si jamais tu es très fort et que tu fais ça très vite, je suis aussi preneur d'un scénario de test Pytest du script d'ETL avec quelques données de test.
 
+Rendu attendu: un clone de ce repo avec ton script d'ETL, éventuellement un fichier test.py avec tes tests. Et la documentation associée pour lancer ton script et tes tests.
+
 Pour info: cet exo (les csv) ont entièrement été créés par notre ami chatGPT.
 Je lui ai déjà demandé de résoudre l'exerice (ainsi qu'à Claude 3.5-sonnet), du coup, merci de ne pas céder à cette tentation, cela serait rapidement visible ;)
