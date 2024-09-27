@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```
-   git clone http:xxxxx
+   git clone https://github.com/Wadjinny/exo-dataeng
     ```
 
 1. Create a virtual environment:
